@@ -6,4 +6,12 @@
 - Shift : F
 
 ## Screenshot Aplikasi
-![Screenshot Aplikasi](tampilan-depan.png)(tampilan-masuk.png)(tampilan-isi.png)
+
+### Tampilan Depan
+![Tampilan Depan](tampilan-depan.png)
+
+### Tampilan Isi
+![Tampilan Isi](tampilan-isi.png)
+
+### Tampilan Masuk
+![Tampilan Masuk](tampilan-masuk.png)
