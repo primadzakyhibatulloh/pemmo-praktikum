@@ -19,4 +19,4 @@
 
 # Tugas 2 Pertemuan 3
 
-![Video Demo Aplikasi](demo.mp4)
+![Video Demo Aplikasi](demo-tugas2.mp4)
