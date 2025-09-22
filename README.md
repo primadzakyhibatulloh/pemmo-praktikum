@@ -3,7 +3,7 @@
 ## Identitas
 - Nama : Prima Dzaky Hibatulloh
 - NIM  : H1D023040
-- Shift : F
+- Shift Baru : F
 
 ## Screenshot Aplikasi
 
