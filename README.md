@@ -19,4 +19,4 @@
 
 # Tugas 2 Pertemuan 3
 
-![Video/GIF Demo Aplikasi](path/ke/video_demo.gif)
+![Video Demo Aplikasi](demo.mp4)
