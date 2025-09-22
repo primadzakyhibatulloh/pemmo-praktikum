@@ -15,3 +15,8 @@
 
 ### Tampilan Masuk
 ![Tampilan Masuk](tampilan-masuk.png)
+
+
+# Tugas 2 Pertemuan 3
+
+![Video/GIF Demo Aplikasi](path/ke/video_demo.gif)
