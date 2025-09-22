@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/2d434762-1f95-44cb-9602-1d30d6ad8001
 # Tugas 1 Pertemuan 2
 
 ## Identitas
@@ -10,18 +8,18 @@ https://github.com/user-attachments/assets/2d434762-1f95-44cb-9602-1d30d6ad8001
 ## Screenshot Aplikasi
 
 ### Tampilan Depan
-![Tampilan Depan](tampilan-depan.png)
+<img width="1080" height="2400" alt="tampilan-depan" src="https://github.com/user-attachments/assets/11dc3943-f0a5-4e26-98cb-e353416acdbe" />
+
 
 ### Tampilan Isi
-![Tampilan Isi](tampilan-isi.png)
+<img width="1080" height="2400" alt="tampilan-isi" src="https://github.com/user-attachments/assets/222cb8a8-cab2-4b7c-8aad-ffc81ee4beeb" />
+
 
 ### Tampilan Masuk
-![Tampilan Masuk](tampilan-masuk.png)
+<img width="1080" height="2400" alt="tampilan-masuk" src="https://github.com/user-attachments/assets/4f90a17d-4225-48d4-8af3-417e2a9cd3ab" />
 
 
 # Tugas 2 Pertemuan 3
-
-
 https://github.com/user-attachments/assets/d2c317b0-cfe8-4fea-a683-5dfce80aa183
 
 
